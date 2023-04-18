@@ -1,2 +1,2 @@
 # Algo-Practice
-NeetCode p
+NeetCode Practice
